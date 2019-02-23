@@ -1,3 +1,30 @@
+
+# Mock API Server
+
+----
+
+move into the directory
+
+use *npm install* 
+
+use *npm run start*
+
+or you can just visit
+[https://servemockapi.firebaseapp.com/](https://servemockapi.firebaseapp.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

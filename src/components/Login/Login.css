@@ -1,0 +1,20 @@
+.googleLoginButton {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.userInfo {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.userDisplayPicture {
+	vertical-align: middle;
+}
+.projectsButton {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
